@@ -28,4 +28,4 @@ function toCamelCase(str) {
 
 7. Higher education
 
-8. English language: step
+8. English language: step one
