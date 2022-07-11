@@ -1,6 +1,6 @@
 1. Damir Zaripov
 
-2. saripovdr@mail.ru; Discord rs school: saripovdr
+2. saripovdr@mail.ru; Discord rs school: saripovdr  (@saripovdr)
 
 3. My goal: HTML + CSS + JS...
 
